@@ -1,2 +1,2 @@
 # devco
-devco
+The program basically opens a window with many buttons and in that there is one button which lets you safely exit the program. Choose the wrong button and you computer might crash. But in the code which i linked i repleaced the malware with a simple pop up so click anything you want. If you want to run the actual code there is a comment which tells you what to do and dont run importos.py or importos.exe.
